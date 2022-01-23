@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ /* header style */
+
+header{
+    min-height: calc(100vh- 8rem);
+}
+
+/* banner style */
+
+.banner-img img{
+    height: 100%;
+    width: 100%;
+}
+.booking-btn{
+    color: rgba(66, 66, 247, 0.932);
+    font-size: 1.2em;
+    padding: 10px 25px;
+    border: none;
+    background-color: white;
+    border-radius: 7px;
+}
+
+/* plan choose styles */
+
+.choose-color{
+    color: rgb(46, 34, 136);
+}
+.plan-btn{
+    color: rgb(19, 19, 206);
+    padding: 10px 35px;
+border: none;
+border-radius: 15px;
+background-color: rgba(255, 193, 232, 0.815);
+}
+
+/* discount style */
+
+.discount-link{
+    color: rgb(19, 19, 206);
+    padding: 10px 35px;
+border: none;
+border-radius: 15px;
+background-color: white;
+text-decoration: none;
+}
